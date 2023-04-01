@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+ display: flex;
+ text-align: left;
+ background-color: #30343F;
+ padding: 1em;
+ color:#FFFFFF;
+ font-family: 'Playfair Display', serif;
+ font-family: 'Raleway', sans-serif;
+ font-weight: 500;
+}
+
+header img {
+    margin-left: 4em;
+    margin-top: 2em;
+}
+div img {
+    width: 100vw;
+    height: 50vh;
+}
